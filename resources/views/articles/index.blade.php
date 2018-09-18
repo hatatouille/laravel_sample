@@ -6,7 +6,7 @@
 	        <thead>
 	        <tr>
 	            <th>タイトル</th>
-	            <th>本文</th>
+	            <th>TEXT</th>
 	            <th>作成日時</th>
 	            <th>更新日時</th>
 	            <th></th>

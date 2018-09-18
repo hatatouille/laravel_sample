@@ -1,12 +1,12 @@
 @extends('app')
 
 	@section('content')
-	    <h2 class="page-header">Articles一覧</h2>
+	    <h2 class="page-header">記事一覧</h2>
 	    <table class="table table-striped table-hover">
 	        <thead>
 	        <tr>
 	            <th>タイトル</th>
-	            <th>TEXT</th>
+	            <th>本文</th>
 	            <th>作成日時</th>
 	            <th>更新日時</th>
 	            <th></th>

@@ -1,7 +1,7 @@
 @extends('app')
 
 	@section('content')
-	    <h2 class="page-header">記事一覧</h2>
+	    <h2 class="page-header">Articles一覧</h2>
 	    <table class="table table-striped table-hover">
 	        <thead>
 	        <tr>
